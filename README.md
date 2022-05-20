@@ -5,4 +5,4 @@ Algunos proyectos de ciencia de datos en el lenguaje de programacion Python.
 [Limpieza de datos](https://github.com/GallegosLuna/Ciencia-de-datos-Python/blob/main/Limpieza%20de%20datos.ipynb)
 
 # Graficos Python
-[Graficos](https://github.com/GallegosLuna/Ciencia-de-datos-Python/blob/main/Limpieza%20de%20datos.ipynb)
+[Graficos](https://github.com/GallegosLuna/Ciencia-de-datos-Python/blob/main/Graficos%20interactivos.ipynb)
